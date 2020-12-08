@@ -1,6 +1,7 @@
 body{
 background:url(../gambar/backgroundEXPLORE.jpg);
-background-size: 650px 660px;
+background-height: 100vw;
+background-width: 50%;
 background-repeat:no-repeat;
 margin:1 auto;
 opacity:0.9;
